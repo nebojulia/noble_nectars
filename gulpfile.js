@@ -1,4 +1,4 @@
-const gulp        = require('gulp');
+const gulp = require('gulp');
 const browserSync = require('browser-sync');
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify-es').default;
